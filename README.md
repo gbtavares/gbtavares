@@ -1,4 +1,4 @@
-### Hi👋 I am Gabriel Tavares :octocat:
+### Hi👋 I am *Gabriel Tavares* :octocat:
 I live in :brazil:
 
 I’m currently learning: Web development (Front-end) and System Analysis and Development
