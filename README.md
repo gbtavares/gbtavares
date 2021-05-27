@@ -1,5 +1,5 @@
 ### Hi👋 I am *Gabriel Tavares* :octocat:
-I live in :brazil:
+I live in :brazil: , Rio de Janeiro
 
 I’m currently learning: Web development (Front-end) and System Analysis and Development
 :computer::books:
@@ -24,6 +24,6 @@ I’m currently learning: Web development (Front-end) and System Analysis and De
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Gabriel-Tavares-GB)
 
 
-
+*Thanks for your visit!*
 
 
