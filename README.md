@@ -13,10 +13,9 @@ I’m currently learning: Web development (Front-end) and System Analysis and De
 ## My Skills
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript"></code>  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code> <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="git"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript"></code>  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code> <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="git"></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"></code> 
 
-# GitHub Stats
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Tavares-GB&show_icons=true&theme=dracula) 
+
 
 # Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
