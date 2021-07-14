@@ -1,8 +1,5 @@
 ### Hi👋 I am *Gabriel Tavares* :octocat:
 I live in :brazil: , Rio de Janeiro <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-<a href="https://www.buymeacoffee.com/GabrielTavares">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="80">
-</a>
 
 I’m currently learning: Web development (Front-end) and System Analysis and Development
 :computer::books:
