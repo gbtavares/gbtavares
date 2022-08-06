@@ -7,7 +7,7 @@ I’m currently learning: Web development (Front-end) and System Analysis and De
 :mailbox_with_no_mail: How to reach me: 
 <a target="_blank" href="mailto:gbtav83@gmail.com">
 <img align="center" alt="gabriel-gmail" height="28" width="82.5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%;"></a>
-<a href="https://www.linkedin.com/in/gabriel-tavares-3b213b151/" target="_blank">
+<a href="https://www.linkedin.com/in/gbtavares/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="gabriel-linkedin" align="center" height="30" width="40" style="max-width:100%;"></a>
   
 ## My Skills
