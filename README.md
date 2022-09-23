@@ -16,10 +16,11 @@ I’m currently learning: Web development (Front-end) and System Analysis and De
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript"></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"></code>  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code> <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu"></code>  
 
 ### TOP LANGUAGES 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbtavares&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbtavares)](https://github.com/gbtavares/github-readme-stats)
+
 
 ### GITHUB STATS
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbtavares&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbtavares&show_icons=true&theme=radical)
 
 # Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
