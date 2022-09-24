@@ -5,23 +5,34 @@ I’m currently learning: Web development (Front-end) and System Analysis and De
 :computer::books:
 
 :mailbox_with_no_mail: How to reach me: 
-<a target="_blank" href="mailto:gbtav83@gmail.com">
-<img align="center" alt="gabriel-gmail" height="28" width="82.5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%;"></a>
-<a href="https://www.linkedin.com/in/gbtavares/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="gabriel-linkedin" align="center" height="30" width="40" style="max-width:100%;"></a>
-  
+<div dsplay="inline-block">
+ 
+ 
+ <a href="https://www.instagram.com/">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  </a> 
+ 
+  <a href="https://www.linkedin.com/in/gbtavares">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
+
+
 ## My Skills
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript"></code> <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"></code>  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code> <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></code>  <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu"></code>  
-
-### TOP LANGUAGES 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbtavares)](https://github.com/gbtavares/github-readme-stats)
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript"></code> <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"></code>  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code> <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></code>  <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu"></code>  
+<br>
 
 
-### GITHUB STATS
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbtavares&show_icons=true&theme=radical)
+### TOP LANGUAGES AND GITHUB STATS
+<p align="center">
+<a href="https://github.com/gbtavares">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gbtavares&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gbtavares&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 # Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api) 
