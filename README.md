@@ -1,8 +1,7 @@
 ### Hi👋 I am *Gabriel Tavares* :octocat:
 I live in :brazil: , Rio de Janeiro <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-I’m currently learning: Web development (Front-end) and System Analysis and Development
-:computer::books:
+Servicenow developer :computer: :books:
 
 :mailbox_with_no_mail: How to reach me: 
 <div dsplay="inline-block">
