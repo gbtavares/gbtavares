@@ -3,18 +3,18 @@ I live in :brazil: , Rio de Janeiro <img src="https://github.com/TheDudeThatCode
 
 Servicenow developer :computer: :books:
 
-<img src="https://raw.githubusercontent.com/earlduque/Animated-SN-Logos/4f396152db0ecf393edacc0fbb725ed8ae204538/servicenowbouncetransparentlogoblacknext.gif" alt="Logo ServiceNow" width="200" />
+<img src="https://raw.githubusercontent.com/earlduque/Animated-SN-Logos/4f396152db0ecf393edacc0fbb725ed8ae204538/servicenowbouncetransparentlogoblacknext.gif" alt="Logo ServiceNow" width="350" />
 
 :mailbox_with_no_mail: How to reach me: 
 <div dsplay="inline-block">
  
  
  <a href="https://www.instagram.com/">
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+    <img align="left" width="60px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
  
   <a href="https://www.linkedin.com/in/gbtavares">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+    <img width="60px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
 
